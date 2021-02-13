@@ -3,7 +3,7 @@ var app = express()
 var bodyParser = require('body-parser')
 
 app.listen(3000, function () {
-    console.log("server on");
+    console.log("server");
 })
 
 // static 디렉토리
